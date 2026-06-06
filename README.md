@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dlahmanchuk
-- 👀 I’m interested in all things related programming, reading, movies, and entrepreneurship
+- 👀 I’m interested in all things related to programming, reading, movies, and entrepreneurship
 - 🌱 I’m currently a college student at CSUN studying Business Administration, Management
