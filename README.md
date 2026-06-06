@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @dlahmanchuk
-- 👀 I’m interested in programming, reading, and traveling
-- 🌱 I’m currently a student in college
-- 💞️ I’m looking to collaborate on a major and important project
+- 👀 I’m interested in all things related programming, reading, movies, and entrepreneurship
+- 🌱 I’m currently a college student at CSUN studying Business Administration, Management
